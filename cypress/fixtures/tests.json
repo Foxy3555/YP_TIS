@@ -1,0 +1,34 @@
+{
+    "login_url": "https://dev.profteam.su/login",
+    "reg_url": "https://dev.profteam.su/registration",
+    "none_existent_login": "test252test",
+    "none_existent_password": "Test",
+    "none_valid_login": "qwe@12!",
+    "none_valid_email": "@",
+    "none_valid_password": "12345678",
+    "student_login": "testerStudent",
+    "valid_password": "Password1",
+    "valid_login": "Dream",
+    "valid_email": "dream12@mail.ru",
+    "busy_email": "foxy_life3555@mail.ru",
+    "rus_login": "йцуйк",
+    "employer_login": "testerEmployer",
+    "job_title": "Тестировщик",
+    "requirements": "Знание основ тестирования, его видов и методов, умение составлять тест-кейсы, тест-планы",
+
+    "more_symbols": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris enim dolor, sagittis lobortis tempus id, gravida sed eros. Nullam varius purus eget augue tincidunt faucibus. Vestibulum tincidunt eget nunc eu rhoncus. Nulla fringilla lacus nec lacinia lobortis. Suspendisse viverra leo eu enim hendrerit placerat. Nunc auctor nunc pellentesque, congue elit eu, sagittis elit. Etiam volutpat euismod eros in congue. Aenean tincidunt pretium risus, ut laoreet diam maximus vel. Aliquam volutpat leo eget ligula congue sollicitudin. Duis iaculis non mauris aliquet dapibus. In cursus dolor vel purus lobortis, vel condimentum magna egestas. Donec et tincidunt justo, vel malesuada nisl. Aenean nec turpis nec tortor sollicitudin pellentesque sed et orci. Integer non nunc sit amet ligula elementum convallis.Fusce sollicitudin sit amet diam sit amet pretium. Quisque euismod a velit sed placerat. Fusce blandit suscipit nulla, sit amet euismod elit lobortis eget. Nulla facilisi. Integer sollicitudin sed nulla ut sodales. Quisque vulputate.",
+
+    "responsibilities": "Знать язык программирования (например, Java или Python), разбираться в тестовых фреймворках (Selenium), уметь работать с базами данных и системами контроля версий (Git).",
+
+    "training_title": "Ине",
+    "none_training_title": "Ура",
+    "login": "Foxy",
+    "password": "QWEasd123",
+    "coledge": "ТТИ",
+    "speciality": "Алма",
+    "text": "Бакалавр",
+    "from_year": 2022,
+    "from_year_wrong": 2,
+    "to_year": 2025,
+    "to_year_wrong": 1999
+}
